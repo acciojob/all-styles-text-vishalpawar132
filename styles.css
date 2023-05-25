@@ -6,6 +6,7 @@
 	border-left: 5px solid green;
 }
 
-div .heading #heading{
-	font-sise: 20px;
+#heading{
+	font-size: 20px;
+	color: white;
 }

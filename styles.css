@@ -3,10 +3,10 @@
 	border: left 5px green;
 	width: 200px;
 	background: purple;
+	border-left: 5px solid green;
 }
 div h3 {
 	background: purple;
-	border-left: 5px solid green;
 	padding: 10px;
 	font-size: 20px;
 	color: white;

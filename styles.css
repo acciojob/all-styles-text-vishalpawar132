@@ -4,6 +4,7 @@
 	width: 200px;
 	padding: 10px;
 	background: purple;
+	border-left: 5px solid green;
 }
 #heading{
 	font-sise: 20px;
